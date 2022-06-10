@@ -24,9 +24,9 @@ The subsequent actions are as follows:
 
 ## Project Images
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/60680749/173067105-63b9d74c-c2f4-4f32-9d5e-0a42fe9519ad.png" width="300" height="165">
-<img src= "https://user-images.githubusercontent.com/60680749/173067109-e7bab8d5-6d9e-4f9a-bdfd-a6ece4f97a42.png" width="300" height="165">
-<img src= "https://user-images.githubusercontent.com/60680749/173067115-13c13d22-921a-4b2d-b0ae-0a182c011a66.png" width="300" height="165">
+<img src= "https://user-images.githubusercontent.com/60680749/173067105-63b9d74c-c2f4-4f32-9d5e-0a42fe9519ad.png" width="275" height="165">
+<img src= "https://user-images.githubusercontent.com/60680749/173067109-e7bab8d5-6d9e-4f9a-bdfd-a6ece4f97a42.png" width="275" height="165">
+<img src= "https://user-images.githubusercontent.com/60680749/173067115-13c13d22-921a-4b2d-b0ae-0a182c011a66.png" width="275" height="165">
 </p>
 
  
